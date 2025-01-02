@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jessica! <br/> <a href="www.linkedin.com/in/trieujessica">LinkedIn</a>
+<h1>Hi, I'm Jessica!   <br/> <a href="www.linkedin.com/in/trieujessica">LinkedIn</a> </h1>
 <h2>
 I am currently a registered nurse who is looking to step into the the world cybersecurity and find an entry-level position where I can apply my skills of network security and security policy. My greatest strengths are working collaboratively with others and carrying out my tasks in a timely and efficient manner while also maintaining HIPAA compliance. My 5 years in nursing helped shape my values for teamwork, kindness, and integrity. I am motivated by my curiosity to learn new things and my satisfaction when solving problems. </h2>
 
