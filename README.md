@@ -7,6 +7,7 @@ I am currently a registered nurse who is looking to step into the the world cybe
 
 - <b>Google Cybersecurity Certification Projects </b>
   - [Conduct a Security Audit](https://github.com/jessica-trieu/GCSCAudit)
+  - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/jessica-trieu/GCSC-IncidentReport)
 
 <h2>🎓Certifications:</h2> 
 
