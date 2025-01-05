@@ -10,6 +10,7 @@ I am currently a registered nurse who is looking to step into the the world cybe
   - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/jessica-trieu/GCSC-IncidentReport)
   - [Use Linux Commands to Manage File Permissions](https://github.com/jessica-trieu/GCSC-LinuxPermissions)
   - [Apply Filters to SQL Queries](https://github.com/jessica-trieu/GCSC-SQLQueries/)
+  - [Analyze a Vulnerable System for a Small Business](https://github.com/jessica-trieu/GCSC-VulnAssess)
 
 <h2>🎓Certifications:</h2> 
 
