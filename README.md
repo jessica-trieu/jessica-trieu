@@ -12,7 +12,9 @@ I am currently a registered nurse who is looking to step into the the world cybe
   - [Apply Filters to SQL Queries](https://github.com/jessica-trieu/GCSC-SQLQueries/)
   - [Analyze a Vulnerable System for a Small Business](https://github.com/jessica-trieu/GCSC-VulnAssess)
   - [Incident Handler's Journal](https://github.com/jessica-trieu/GCSC-IncidentJournal)
-
+  - [Updating a File with a Python Algorithm](https://github.com/jessica-trieu/GCSC-pythonupdate/)
+ 
+    
 <h2>🎓Certifications:</h2> 
 
 - [Google Cybersecurity Certification](https://www.credly.com/badges/568a7631-fb12-4043-b6b3-dc33d9a60c5e/public_url)
