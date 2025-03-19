@@ -18,6 +18,7 @@ I am currently a registered nurse who is learning about the world of cybersecuri
 <h2>🎓Certifications:</h2> 
 
 - [Google Cybersecurity Certification](https://www.credly.com/badges/568a7631-fb12-4043-b6b3-dc33d9a60c5e/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/d23a4a42-0984-4641-b4f1-7c6008acb9a7/public_url)
 
 
 Thank you for stopping by!
